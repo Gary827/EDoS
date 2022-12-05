@@ -1,0 +1,1 @@
+java -classpath bin\;jars\cloudsim-3.0.3.jar;jars\commons-math3-3.6.1.jar;jars\poi-4.1.2.jar;jars\poi-ooxml-4.1.2.jar;jars\mysql-connector-java-5.0.8-bin.jar EDoS.EDoS

@@ -1,0 +1,21 @@
+java -classpath jars\cloudsim-3.0.3.jar;jars\cloudsim-examples-3.0.3.jar org.cloudbus.cloudsim.examples.CloudSimExample1
+
+（1）CloudSimExample1.java：創建一個一台主機、一個任務的數據中心
+
+（2）CloudSimExample2.java：創建一個一台主機、兩個任務的數據中心。兩個任務具有一樣的處理能力和執行時間
+
+（3）CloudSimExample3.java：創建一個兩台主機、兩個任務的數據中心。兩個任務對處理能力的需求不同，同時根據申請虛擬機的性能不同，所需執行時間也不相同
+
+（4）CloudSimExample4.java：創建兩個數據中心，每個數據中心一台主機，並在其上運行兩個雲任務
+
+（5）CloudSimExample5.java：創建兩個數據中心，每個數據中心一台主機，並在其上運行兩個用戶的雲任務
+
+（6）CloudSimExample6.java：創建可擴展的仿真環境
+
+（7）CloudSimExample7.java：演示如何停止仿真
+
+（8）CloudSimExample8.java：演示如何在運行時添加實體
+
+（9）network：包含網絡仿真的例子
+
+（10）power：包含演示CloudSim power-aware特點的例子

@@ -1,0 +1,3 @@
+1. install Java JDK (no version limit)
+2. install eclipse
+3. import project (tutorial:https://www.microfocus.com/documentation/visual-cobol/30pu9/VC_30PU9_for_Eclipse_for_UNIX_WH/index.html?t=GUID-773A19C7-98B2-442D-9D36-240E20E3F2CE.html)
